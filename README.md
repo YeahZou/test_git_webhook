@@ -1,1 +1,2 @@
-测试 github的webhook的触发时机
+测试 github的webhook的触发时机。
+1、在repo上配置webhook，该repo下所有分支的push都会触发hook
